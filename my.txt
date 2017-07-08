@@ -1,2 +1,3 @@
 this is a text.
 this is what i use git gui.
+this is main function.
